@@ -1,1 +1,1 @@
-On styleChart branch, I added a comment. 
+Added a new branch called styleChart branch. 
